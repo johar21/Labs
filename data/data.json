@@ -1,0 +1,43 @@
+
+{
+   "data": [
+    {
+      "user_id": 1,
+      "name": "Alice",
+      "details": {
+        "address": {
+          "street": "123 Main St",
+          "city": "Wonderland",
+          "zipcode": "45678"
+        },
+        "contacts": [
+          {
+            "type": "email",
+            "value": "alice@email.com"
+          },
+          {
+            "type": "phone",
+            "value": "+1234567890"
+          }
+        ]
+      }
+    },
+    {
+      "user_id": 2,
+      "name": "Bob",
+      "details": {
+        "address": {
+          "street": "456 Elm St",
+          "city": "Dreamville",
+          "zipcode": "78901"
+        },
+        "contacts": [
+          {
+            "type": "email",
+            "value": "bob@email.com"
+          }
+        ]
+      }
+    }
+  ]
+}
